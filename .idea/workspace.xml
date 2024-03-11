@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398c41fd-2b35-4727-9699-8501d861fc37" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty01/target/classes/com/someecho/netty01/HttpHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/netty01/target/classes/com/someecho/netty01/HttpHandler.class" afterDir="false" />
-    </list>
+    <list default="true" id="398c41fd-2b35-4727-9699-8501d861fc37" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +72,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="zulu-17" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/nio02/src/main/java/com/someecho/nio02" />
@@ -206,12 +204,23 @@
       <updated>1710080659561</updated>
       <workItem from="1710080661066" duration="3356000" />
       <workItem from="1710087521104" duration="6957000" />
-      <workItem from="1710094615648" duration="8814000" />
+      <workItem from="1710094615648" duration="9156000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
